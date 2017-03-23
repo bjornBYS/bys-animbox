@@ -10,7 +10,7 @@ Create awesome hover effects
 This plugin allows you to create awesome content block hover effects to insert using the ThemeFusion Page Builder Plugin.
 
 == Installation ==
-To install, simple extract the \'bys-animbox\' folder into your \'wp-content/plugins/\' directory. Once extracted, you must activate the plugin within the WordPress Site Admin \'Plugins\' section. Then go to your post and find the new BYS Animatie element in the Fusion Builder.
+To install, simple extract the \'bys-animbox\' folder into your \'wp-content/plugins/\' directory. Once extracted, you must activate the plugin within the WordPress Site Admin \'Plugins\' section. Then go to your post and find the new BYS Animation element in the Fusion Builder.
 
 == Upgrade Notice ==
 1.0
